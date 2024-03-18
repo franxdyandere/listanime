@@ -36,11 +36,11 @@ function agregarAnime(name, estado, valoracion) {
             estadoSpan = null;
     }
 
+    document.getElementById("Ani").appendChild(newAnime);
+    
     if (estadoSpan && estadoSpan.scrollWidth > estadoSpan.clientWidth) {
         estadoSpan.textContent = estadoSpan.textContent.slice(0, -4);
     }
-
-    document.getElementById("Ani").appendChild(newAnime);
 }
 
 const container = document.getElementById("Ani");
