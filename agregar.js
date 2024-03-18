@@ -107,7 +107,7 @@ agregarAnime('Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken', 'Visto', '7')
 agregarAnime('Paradox Live the Animation', 'Visto', '7');
 agregarAnime('16bit Sensation: Another Layer', 'Visto', '10');
 agregarAnime('Potion-danomi de Ikinobimasu!', 'Visto', '10');
-agregarAnime('Fluffy Paradise', 'Pendiente', '0');
+agregarAnime('Fluffy Paradise', 'Visto', '7');
 agregarAnime('Himesama "Goumon" no Jikan desu', 'Pendiente', '0');
 agregarAnime('Pon no Michi', 'Pendiente', '0');
 agregarAnime('Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.', 'Pendiente', '0');
