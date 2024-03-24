@@ -109,17 +109,16 @@ agregarAnime('16bit Sensation: Another Layer', 'Visto', '10');
 agregarAnime('Potion-danomi de Ikinobimasu!', 'Visto', '10');
 agregarAnime('Fluffy Paradise', 'Visto', '7');
 agregarAnime('Himesama "Goumon" no Jikan desu', 'Pendiente', '0');
-agregarAnime('Pon no Michi', 'Pendiente', '0');
+agregarAnime('Pon no Michi', 'Visto', '6');
 agregarAnime('Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.', 'Pendiente', '0');
 agregarAnime('Sekai Saiko no Ansatsusha, Isekai Kizoku ni Tensei Suru', 'Visto', '10');
 agregarAnime('Val x Love', 'Visto', '8', 'Inconcluso');
 agregarAnime('Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?', 'Visto', '8');
-agregarAnime('Bikini Warriors', 'Pendiente', '0');
+agregarAnime('Bikini Warriors', 'Visto', '5');
 agregarAnime('Hinako Note', 'Pendiente', '0');
 agregarAnime('Nekogami Yaoyorozu', 'Pendiente', '0');
 agregarAnime('RPG Real Estate', 'Pendiente', '0');
 agregarAnime('Joze to Tora to Sakanatachi', 'Pendiente', '0');
-
 
 agregarAnime('Wind Breaker', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Yoru no kurage wa oyogenai', 'Estreno', '0', 'Sin Estrenar');
@@ -127,26 +126,8 @@ agregarAnime('Kami wa game ni ueteiru', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Blue Archive: The animation', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Vampire Dormitory', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('', 'pendiente', '0', 'Sin Estrenar');
-agregarAnime('', 'pendiente', '0', 'Sin Estrenar');
-agregarAnime('', 'pendiente', '0', 'Sin Estrenar');
-agregarAnime('', 'pendiente', '0', 'Sin Estrenar');
-
-
-
 
 agregarAnime('Tokidoki Bosotto Roshia-Go de Dereru Tonari no Arya-San', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Junior High School DxD', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('2.5 Jigen no Yuwaku', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Unnamed Memory', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
-agregarAnime('', 'pendiente', '0');
