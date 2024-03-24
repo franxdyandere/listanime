@@ -8,6 +8,8 @@ function agregarAnime(name, estado, valoracion) {
     var newAnime = document.createElement("li");
     var nameSpan = document.createElement("span");
     nameSpan.textContent = name;
+    nameSpan.addEventListener('click', () => navigator.clipboard.writeText(nameSpan.textContent)
+        .catch(err => alert('Error al copiar al portapapeles: ', err)));
     var estadoSpan = document.createElement("span");
     estadoSpan.textContent = estado;
     var valoracionSpan = document.createElement("span");
