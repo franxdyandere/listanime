@@ -116,18 +116,18 @@ agregarAnime('Val x Love', 'Visto', '8', 'Inconcluso');
 agregarAnime('Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?', 'Visto', '8');
 agregarAnime('Bikini Warriors', 'Visto', '5');
 agregarAnime('Hinako Note', 'Visto', '7');
-agregarAnime('RPG Real Estate', 'Pendiente', '0');
+agregarAnime('RPG Real Estate', 'Visto', '10');
 agregarAnime('Joze to Tora to Sakanatachi', 'Pendiente', '0');
 
 agregarAnime('Wind Breaker', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Yoru no kurage wa oyogenai', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('Kami wa game ni ueteiru', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Blue Archive: The animation', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Vampire Dormitory', 'Estreno', '0', 'Sin Estrenar');
 
 agregarAnime('Tokidoki Bosotto Roshia-Go de Dereru Tonari no Arya-San', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Junior High School DxD', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('2.5 Jigen no Yuwaku', 'Estreno', '0', 'Sin Estrenar');
+agregarAnime('Kami wa game ni ueteiru', 'Pendiente', '0');
 agregarAnime('Unnamed Memory', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Hoshifuru Oukoku no Nina', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('Isekai Cheat Magician', 'Estreno', '0', 'Sin Estrenar');
+agregarAnime('Isekai Cheat Magician', 'Pendiente', '0');
