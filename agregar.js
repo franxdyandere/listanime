@@ -36,7 +36,7 @@ agregarAnime('Frame Arms Girl', 'Visto', '7');
 agregarAnime('Mirai Nikki', 'Visto', '10');
 agregarAnime('Angel Beats!', 'Visto', '10');
 agregarAnime('Gate: Jieitai Kano Chi nite, Kaku Tatakaeri', 'Visto', '10');
-agregarAnime('Date A Live', 'Visto', '10');
+agregarAnime('Date A Live', 'Pendiente', '10');
 agregarAnime('Kami-sama ni Natta Hi', 'Visto', '10');
 agregarAnime('Hidan no Aria', 'Visto', '10');
 agregarAnime('Gakusen Toshi Asterisk', 'Visto', '8');
@@ -64,7 +64,7 @@ agregarAnime('Princess Connect! Re:Dive', 'Visto', '10');
 agregarAnime('Kiss×sis', 'Visto', '10');
 agregarAnime('No Game No Life', 'Visto', '10');
 agregarAnime('Kanojo, Okarishimasu','Visto','9.5');
-agregarAnime('Maou Gakuin no Futekigousha','Visto','10');
+agregarAnime('Maou Gakuin no Futekigousha','Pendiente','10');
 agregarAnime('Day Break Illusion', 'Visto', '10');
 agregarAnime('Wixoss', 'Visto', '10');
 agregarAnime('Wonder Egg Priority', 'Visto', '7', 'Inconcluso');
@@ -117,17 +117,18 @@ agregarAnime('Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?', 'Visto', '8')
 agregarAnime('Bikini Warriors', 'Visto', '5');
 agregarAnime('Hinako Note', 'Visto', '7');
 agregarAnime('RPG Real Estate', 'Visto', '10');
-agregarAnime('Joze to Tora to Sakanatachi', 'Pendiente', '0');
-
-agregarAnime('Wind Breaker', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('Yoru no kurage wa oyogenai', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('Blue Archive: The animation', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('Vampire Dormitory', 'Estreno', '0', 'Sin Estrenar');
-
+agregarAnime('Josee to Tora to Sakanatachi', 'Visto', '10');
+/* Pendientes */
+agregarAnime("Akebi's Sailor Uniform", 'Pendiente', '0');
+agregarAnime('Isekai Cheat Magician', 'Pendiente', '0');
+agregarAnime('Kami wa game ni ueteiru', 'Pendiente', '0');
+agregarAnime('Blue Archive: The animation', 'Pendiente', '0');
+agregarAnime('Vampire Dormitory', 'Pendiente', '0');
+agregarAnime('Yoru no kurage wa oyogenai', 'Pendiente', '0');
+agregarAnime('Wind Breaker', 'Pendiente', '0');
+agregarAnime('Unnamed Memory', 'Pendiente', '0');
+/* Estrenos */
 agregarAnime('Tokidoki Bosotto Roshia-Go de Dereru Tonari no Arya-San', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Junior High School DxD', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('2.5 Jigen no Yuwaku', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('Kami wa game ni ueteiru', 'Pendiente', '0');
-agregarAnime('Unnamed Memory', 'Estreno', '0', 'Sin Estrenar');
 agregarAnime('Hoshifuru Oukoku no Nina', 'Estreno', '0', 'Sin Estrenar');
-agregarAnime('Isekai Cheat Magician', 'Pendiente', '0');
